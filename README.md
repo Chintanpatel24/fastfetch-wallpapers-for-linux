@@ -31,6 +31,23 @@
 
 </tr>
 
+<tr>
+
+<td>
+
+<img width="980" height="414" alt="4" src="https://github.com/user-attachments/assets/6f699d5d-8614-4d15-936b-12e1501c52ef" />
+
+
+</td>
+
+<td>
+
+## [config.jsonc](configs/4.jsonc)
+
+</td>
+
+</tr>
+
   
 </table>
 
