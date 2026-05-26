@@ -1,0 +1,108 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "padding": {
+            "top": 2,
+            "left": 2
+        },
+        "color": {
+            "1": "blue",
+            "2": "magenta"
+        }
+    },
+    "display": {
+        "separator": " ➜  ",
+        "color": {
+            "keys": "magenta"
+        },
+        "key": {
+            "width": 15
+        }
+    },
+    "modules": [
+        "title",
+        {
+            "type": "separator",
+            "string": "─"
+        },
+        {
+            "type": "os",
+            "key": "󰣇 OS",
+            "keyColor": "blue"
+        },
+        {
+            "type": "kernel",
+            "key": " Kernel",
+            "keyColor": "blue"
+        },
+        {
+            "type": "uptime",
+            "key": "󱎫 Uptime",
+            "keyColor": "blue"
+        },
+        {
+            "type": "packages",
+            "key": "󰏖 Packages",
+            "keyColor": "blue"
+        },
+        {
+            "type": "shell",
+            "key": " Shell",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "display",
+            "key": "󰍹 Display",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "de",
+            "key": "󰖲 DE",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "wm",
+            "key": "󱂬 WM",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "terminal",
+            "key": " Terminal",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "separator",
+            "string": "─"
+        },
+        {
+            "type": "cpu",
+            "key": "󰻠 CPU",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "gpu",
+            "key": "󰢮 GPU",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "memory",
+            "key": "󰍛 Memory",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "disk",
+            "key": "󰋊 Disk",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "battery",
+            "key": "󰁹 Battery",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "separator",
+            "string": "─"
+        },
+        "colors"
+    ]
+}
