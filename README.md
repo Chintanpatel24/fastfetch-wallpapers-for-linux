@@ -90,7 +90,7 @@
 
 <td>
 
-## [config.jsonc]()
+## [config.jsonc](configs/thinkpad-styled)
 
 </td>
 
