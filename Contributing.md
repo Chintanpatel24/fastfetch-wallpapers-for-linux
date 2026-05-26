@@ -56,17 +56,17 @@ NEW_THEME!!!
 
 ---
 
-# 🚀 How to Contribute
+## How to Contribute
 
 1. Fork the repository
-2. Create your config folder
+2. Create your config folder or add your config.jsonc in list 
 3. Add your files
-4. Commit your changes
+4. Commit your changes and also update main readme.md
 5. Open a Pull Request
 
 ---
 
-# ⚠ Rules
+## Rules
 
 - Do NOT upload malicious scripts
 - Do NOT steal configs without credit
@@ -76,15 +76,15 @@ NEW_THEME!!!
 
 ---
 
-# ❤️ Credits
+## Credits
 
-All contributors keep ownership of their configs.
+- All contributors keep ownership of their configs.
 
-By contributing, you agree that your config can be shared and modified inside this repository.
+- By contributing, you agree that your config can be shared and modified inside this repository.
 
 ---
 
-# 🌟 Extra
+## Extra
 
 If your config depends on:
 
@@ -97,6 +97,6 @@ Please mention them in your folder `README.md`.
 
 ---
 
-# 🙌 Thank You
+## Thank You
 
-Every contribution helps build a bigger and better collection for the Fastfetch community.
+>Every contribution helps build a bigger and better collection for the Fastfetch community.
