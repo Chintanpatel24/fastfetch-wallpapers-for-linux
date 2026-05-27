@@ -100,6 +100,23 @@
 
 <td>
 
+<img width="980" height="414" alt="FastFetch" src="https://github.com/user-attachments/assets/7bad1379-4aeb-40af-a601-0d21e8589df7"/>
+
+
+</td>
+
+<td>
+
+## [config.jsonc](configs/ghosttree)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
 <img width="980" height="414" alt="image" src="https://github.com/TehEpikBoi/tehepikboi-config/blob/main/PNGs/Soldiertf2.webp?raw=true" />
 
 </td>
