@@ -148,6 +148,18 @@
 
 <tr>
 
+<td>
+
+<img width="980" height="414" alt="image" src="https://raw.githubusercontent.com/miketester10/fastfetch-config-arch-linux/df230687fbe5170d69ee92d4cde88674d852da8a/logo/fastfetch.png" />
+
+</td>
+
+<td>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
