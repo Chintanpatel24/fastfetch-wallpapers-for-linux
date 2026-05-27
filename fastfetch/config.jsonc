@@ -1,0 +1,133 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+
+  "logo": {
+    "type": "file",
+    "source": "%USERPROFILE%\\.config\\fastfetch\\Icon_soldier.txt",
+
+    // Optional logo colors
+    /*
+    "color": {
+      "1": "magenta",
+      "2": "blue",
+      "3": "cyan",
+      "4": "green",
+      "5": "black",
+      "6": "white",
+      "7": "red"
+    },
+    */
+
+    "padding": {
+      "right": 2
+    }
+  },
+
+  "display": {
+    "bar": {
+      "char": {
+        "elapsed": "/",
+        "total": "/"
+      },
+      "width": 20
+    },
+
+    "percent": {
+      "type": 3,
+
+      "color": {
+        "green": "red",
+        "yellow": "red"
+      },
+
+      "ndigits": 2
+    },
+
+    "key": {
+      "width": 15
+    },
+
+    // Optional flashy effects
+    // "color": "blink",
+
+    "separator": " ~> "
+  },
+
+  "modules": [
+    "break",
+    "break",
+    "break",
+    "break",
+
+    {
+      "type": "title",
+      "format": "{6}{7}{#yellow}{8}{#}"
+    },
+
+    "break",
+
+    // "separator",
+
+    {
+      "type": "os",
+      "key": "OS ",
+      "format": "{#blue}{4}{#} {?6}({#yellow}{6}{#}){?} {?12}{12}{?}"
+    },
+
+   // "break",
+
+    // "uptime",
+
+    {
+      "type": "shell",
+      "key": "Shell "
+    },
+
+    {
+      "type": "cpu",
+      "key": "CPU "
+    },
+
+    {
+      "type": "gpu",
+      "key": "GPU 󰘚"
+    },
+
+    {
+      "type": "memory",
+      "key": "RAM "
+    },
+
+    // "break",
+
+    /*
+    {
+      "type": "disk"
+    },
+    */
+
+    // "break",
+    {
+     "type": "disk",
+     "key": "Storage "
+    },
+
+    {
+      "type": "media",
+      "format": "{5}: <{#underline_yellow}{1}{#}> {?3}by {#1}{3}{#}{?}"
+    },
+
+    //{
+      //"type": "sound",
+      //"format": "{2:12} {5} {3}"
+    //},
+
+    //{
+      //"type": "weather",
+      //"timeout": 2000
+    //},
+
+    "break",
+    "colors"
+  ]
+}
