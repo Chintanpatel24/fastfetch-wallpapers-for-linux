@@ -101,7 +101,7 @@
 
 <td>
 
-<img width="1000" height="597" alt="FastFetch" src="https://github.com/user-attachments/assets/7bad1379-4aeb-40af-a601-0d21e8589df7" />
+<img width="980" height="414" alt="FastFetch" src="https://github.com/user-attachments/assets/7bad1379-4aeb-40af-a601-0d21e8589df7" />
 
 
 </td>
