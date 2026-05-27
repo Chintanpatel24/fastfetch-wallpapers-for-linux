@@ -150,7 +150,7 @@
     {
       "key": "│ {#33}󰖨  Clima    {#keys}│",
       "type": "command",
-      "text": "curl -s 'wttr.in/Sao+Paulo?format=%C+%t' 2>/dev/null || echo 'N/A'"
+      "text": "curl -s 'wttr.in/Sao+Paulo?format=%C+%t' 2>/dev/null || echo 'N/A'" //Change Weather Location!
     },
     {
       "key": "│ {#33}󰃰  Data/Hora{#keys}│",

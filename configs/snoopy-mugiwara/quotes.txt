@@ -1,0 +1,482 @@
+A journey of a thousand miles begins with a single step.
+Clean code is code that works and can be read.
+Simplicity is the ultimate sophistication.
+The best time to plant a tree was 20 years ago. The second best time is now.
+Make it work, make it right, make it fast.
+Simplicity is the ultimate sophistication.
+Make it work, right, and fast.
+Clean code reads like prose.
+First it works, then it optimizes.
+Less is more, always.
+Patience is the mother of all virtues.
+To err is human, to debug is divine.
+Every expert was once a beginner.
+Learn, apply, share.
+The best code is the code that doesn't exist.
+Automate what tires you.
+Consistency trumps intensity.
+Focus on the process, not the result.
+One step at a time, always forward.
+Done is better than perfect.
+Think big, start small.
+Code is poetry in motion.
+Refactor before it's too late. Document what you're going to forget.
+Test early, test often.
+The terminal is your best friend.
+Read the error carefully.
+Git commit early, git commit often.
+Backup is not optional.
+Learn the basics very well.
+Master the tools you use.
+Slowness with quality wins.
+Perfection is the enemy of accomplishment.
+Break the problem down into parts.
+Solve one error at a time.
+Read the documentation first.
+The log always tells the truth.
+Variables with clear names save money.
+Small functions are easier.
+DRY: Never repeat yourself.
+KISS: Keep it simple.
+YAGNI: You won't need it.
+Comments explain why.
+Code review improves everything.
+Automate repetitive tests.
+The best developer is the one who learns.
+Curiosity is the engine of progress.
+Fail fast, learn faster.
+Focus on delivering real value.
+Bad code today, debt tomorrow.
+Simplify before scaling.
+One thing at a time works.
+Productivity isn't about rushing.
+Silence helps you think.
+Sleep well to code well.
+Pause, breathe, then debug.
+Always read other people's code.
+Contribute to open source.
+Community accelerates learning.
+Teaching is learning twice.
+Share what you know.
+Be humble about what you don't know.
+Never stop learning.
+Practice makes perfect.
+Repetition builds skill.
+Discipline surpasses motivation.
+A good routine generates results.
+Organize your workspace.
+Eliminate distractions while coding.
+Headphones help with concentration.
+Breaks increase productivity.
+Hydrate while you work.
+Move your body, free your mind.
+Sleep is the best debugger.
+Eat well to think better.
+Health is your greatest asset.
+Take care of yourself first.
+Balance is the key to everything.
+Appreciate the journey, not just the destination.
+Celebrate every small victory.
+Gratitude changes perspective.
+Focus on what you control.
+Let go of what no longer serves you.
+Every day is a new chance.
+Tomorrow begins with today.
+The present is a gift.
+Live with intention and purpose.
+Choices shape your future.
+Be the change you want to see.
+Inhale before you exhale.
+Listen more than you speak.
+Right questions open doors.
+Curiosity kills ignorance.
+Read a lot, think even more.
+Write to clarify your ideas.
+Daily reflection transforms.
+Meditation sharpens focus.
+Gratitude is the fuel of the soul.
+Action heals fear.
+Courage is not the absence of fear.
+Failure teaches more than success.
+Persistence distinguishes the great.
+Resilience is trained every day.
+Adapt or get left behind.
+Innovation is born from necessity.
+Creativity solves problems.
+Art and technique go hand in hand.
+Beauty is in the details.
+Details make the difference.
+Quality is a habit, not an act.
+Excellence is a daily choice.
+Invest in yourself without hesitation.
+Knowledge doesn't take up space.
+Books are portals to worlds.
+Read at least one book a month.
+Words have immense power.
+Clear communication avoids conflict.
+Empathy builds bridges.
+Active listening transforms relationships.
+Respect is the foundation of everything.
+Trust is earned through actions.
+Integrity is worth more than gold.
+Honesty simplifies life.
+Transparency generates trust.
+Collaboration overcomes competition.
+Together we go further.
+Diversity enriches solutions.
+Include whenever possible.
+Feedback is a gift, not criticism.
+Receive criticism with openness.
+Improve a little each day.
+Kaizen: continuous improvement always.
+Progress surpasses perfection.
+Start imperfect, improve later.
+Launch quickly, iterate constantly.
+Validation before building.
+The user is always right.
+Empathy for the user is essential.
+Design serves people.
+Technology serves humanity.
+Purposeful code matters.
+Build with positive impact.
+Ethics guide good decisions.
+Privacy is a human right.
+Security is never optional.
+Protect data like you protect gold.
+Always update dependencies.
+Ignored vulnerabilities are a risk.
+Strong passwords are mandatory.
+2FA on everything you can.
+Encryption is your shield.
+Open source is pure freedom.
+Sharing code is generous.
+The community is bigger than the ego.
+Small contributions add up.
+Issues are open opportunities.
+Pull requests teach a lot.
+Code review is mutual learning.
+Merge carefully and attentively. Branch by feature, always.
+Main branch always stable.
+CI/CD saves time and pain.
+Automate deployment soon.
+Infrastructure as code wins.
+Containers make everything easier today.
+Docker changed the dev world.
+Kubernetes scales elegantly.
+Cloud is a tool, not a solution.
+On-premise still has its place.
+Hybrid is the likely future.
+Monitoring saves you sleep.
+The right alert prevents a major crisis.
+Structured logs facilitate analysis.
+Metrics guide good decisions. A clear dashboard tells stories.
+Data without context says nothing.
+Correlation does not imply causation.
+Test your hypothesis before acting.
+A/B test before deciding.
+Decide with data, not ego.
+Intuition plus data is powerful.
+Experience calibrates instinct.
+Years of practice make a master.
+Mentoring accelerates growth.
+Find your mentor soon.
+Be a mentor to someone else too.
+Pay back what you received.
+Networking is about giving first.
+Relationships are worth more than a CV.
+Your reputation always precedes you.
+Build a reputation over time.
+Personal branding is what people say.
+Be consistent in your presence.
+Publish what you learned today.
+A blog is your living portfolio. An active GitHub speaks for you. An updated LinkedIn opens doors.
+A real portfolio surpasses a diploma.
+Personal projects teach a lot.
+Hackathons expand your mind.
+Challenges accelerate learning.
+Always step outside your comfort zone.
+Comfort is the enemy of growth.
+Calculated risk is worthwhile.
+Entrepreneurship is about solving problems.
+A good product solves real pain.
+Validate before building everything. MVP: Minimum Viable Product always.
+Launch, measure, learn, repeat.
+Pivot when the data dictates.
+Persist when the vision is clear.
+Know when to stop too.
+Cash flow is the oxygen of the business.
+Revenue solves many problems.
+Controlled costs are freedom.
+Invest before you need to.
+Emergency savings are peace of mind.
+Simple finances work well.
+Always spend less than you earn.
+Invest the difference every month.
+Compound interest is your magic.
+Time in the market is key.
+Diversify your investments.
+Risk and return go hand in hand.
+Don't invest what you can't afford to lose.
+Learn about money early.
+Financial education liberates.
+Financial independence is a goal.
+Freedom is the greatest luxury.
+Time is your rarest resource.
+Manage energy, not just time.
+Say no to what doesn't matter.
+Prioritize what moves the needle.
+80% of the result comes from 20%.
+Pareto applies to everything.
+Focus on the essentials, cut the rest.
+Stoicism helps at work.
+Control only what is controllable.
+Accept what you cannot change.
+Virtue is the only real good.
+Action aligned with values matters.
+Be the version you respect.
+Integrity when no one is watching. Character is destiny, said Heraclitus.
+What you do defines who you are.
+Habits shape your character.
+Small habits, big changes.
+Atomic: 1% changes add up.
+Identity guides behavior.
+Be the type that does this.
+Systems achieve isolated goals.
+Process generates consistent results.
+Discipline is real freedom.
+Freedom without discipline is chaos.
+Structure unleashes creativity.
+Morning routine defines the day.
+Wake up early, think calmly.
+The first hour is the most valuable.
+Protect your focus time.
+Deep work changes entire careers.
+Distraction is the thief of time.
+Notifications are paid interruptions.
+Airplane mode is your best ally.
+90-minute focus blocks.
+Pomodoro works for many people.
+Find your work rhythm.
+Each person has their peak.
+Know your biological chronotype.
+Work with your nature.
+Force less, flow more, always.
+The state of flow is the goal.
+A calibrated challenge generates flow.
+Neither too easy nor too difficult.
+The growth zone is ideal.
+Discomfort signals learning.
+Learn something new every day.
+Curiosity is a lifestyle.
+Question what seems obvious.
+The first answer isn't always right.
+Think again before acting.
+Slow thinking beats fast thinking.
+Cognitive biases deceive us.
+Intellectual humility is rare.
+Change your mind with new evidence.
+Being convinced is being intelligent.
+Debate ideas, not egos.
+Separate the idea from the person saying it.
+Criticize the argument, not the person.
+Steelman before refuting.
+Understand before disagreeing.
+First seek to understand.
+Then seek to be understood.
+Communication is your responsibility.
+Clarity is kindness in form.
+Be direct but always respectful.
+Sandwich feedback doesn't work.
+Be specific in the feedback given.
+Praise in public, correct in private.
+Leadership is serving your team.
+Management is multiplying people.
+Delegating is trusting and releasing.
+Control kills creativity.
+Autonomy generates responsibility.
+Purpose engages more than salary.
+Culture eats strategy for breakfast.
+Environment shapes behavior.
+Hire slowly, fire quickly.
+One wrong person on the team is costly.
+Diversity of thought solves problems.
+Safe psychology unleashes ideas.
+Safe teams innovate more.
+Error without punishment generates learning.
+Failure quickly is agile learning.
+Honest retrospectives improve teams.
+Team rituals build cohesion.
+Always celebrate collective victories.
+Recognize individual contributions.
+Shared purpose unites teams.
+Clear vision guides difficult decisions.
+iMission inspires on bad days.
+Values filter complex decisions.
+Culture is what happens unseen.
+Example is the only real leadership.
+Always do what you say.
+Credibility is lost in seconds.
+Trust takes years to build.
+Words convince, examples move.
+Storytelling moves hearts and minds.
+Data convinces, stories inspire.
+Narrative is an underestimated power.
+Learn to tell stories well.
+A clear presentation sells your idea.
+Simple slides communicate better.
+Fewer bullet points, more message.
+One idea per slide is enough.
+Always rehearse before presenting.
+Nervousness disappears with preparation.
+Take a deep breath before starting.
+Eye contact connects audiences.
+Pause to give weight to your words.
+The right pace maintains attention.
+Questions engage more than answers.
+Interaction transforms presentations.
+Know your audience deeply.
+Adapt the message to the receiver.
+The right channel for the right message.
+Email for formal matters.
+Slack for urgent matters.
+Meetings for complex matters.
+Never hold a meeting when email suffices.
+Meetings with an agenda are more productive.
+Timebox each meeting item.
+Decisions made during the meeting, not later.
+Short minutes with next steps.
+Accountability completes the cycle.
+Follow-up is a sign of respect.
+Say what you're going to do and do it.
+Commitment is the currency of trust.
+Underpromise, always overdeliver.
+Managed expectations equal satisfaction.
+Positive surprises build customer loyalty.
+Unexpected details delight clients.
+Experience surpasses the product itself.
+Emotion guides purchase decisions.
+Trust closes more sales.
+Listen to the client before selling.
+Diagnose before prescribing.
+Real problem before solution.
+The right question is worth more than the answer.
+Silence in sales is powerful.
+Objections are requests for more information.
+Fear of losing motivates more than gain.
+Real urgency accelerates decisions.
+Social proof convinces brains.
+Testimonials are worth more than arguments.
+Success stories close deals.
+Clear ROI simplifies approval.
+Concrete numbers overcome abstraction.
+Specificity generates credibility.
+Vague generates instant distrust.
+Trust is the real product sold.
+Relationship precedes transaction.
+Long term surpasses short term.
+Value delivered generates real loyalty.
+A happy customer refers others.
+High NPS means organic growth.
+Retention is worth more than acquisition.
+Acquisition cost needs to fit.
+LTV should easily exceed CAC.
+North metric guides the entire team.
+OKR aligns effort with strategy.
+SMART goal is an achievable goal.
+Specific, measurable, attainable.
+Relevant and time-bound.
+Review goals with the right frequency.
+Flexibility in the goal, firmness in the why.
+Strategy without execution is a dream.
+Execution without strategy is a race.
+Plan plus action plus review works.
+The PDCA cycle solves almost everything.
+Continuous improvement is a living philosophy.
+Improvement kata builds habit.
+Lean eliminates what doesn't add value.
+Hidden waste is very expensive.
+Value flows where there is less friction.
+Remove what the customer doesn't pay for.
+Efficiency without effectiveness is useless.
+Doing the wrong thing right is worse.
+Effectiveness first, efficiency later.
+Prioritize impact over effort.
+High impact, low effort: do it now.
+The Eisenhower Matrix organizes everything.
+Urgent is not always important.
+Important is rarely urgent.
+Quadrant two changes your life.
+Prevention beats firefighting.
+Planning always saves time.
+An hour planned saves three.
+Think about the end before you start.
+Always start with the end in mind.
+Clear purpose accelerates execution.
+Knowing why unlocks how.
+Intrinsic motivation lasts longer.
+Autonomy is a powerful motivator.
+Mastery is the endless path.
+Purpose is greater than any goal.
+Ikigai: live where everything intersects.
+Meaningful work doesn't tire you out as much.
+Discovering a vocation is a rare privilege.
+Build around your strengths.
+Delegate what drains your energy.
+Focusing on strengths yields more.
+Don't force where you're too weak.
+Team complementarity is key.
+Alone you go fast, together you go far.
+Africa teaches about community and strength.
+Ubuntu: I am because we always are.
+Interconnection is the profound truth.
+Everything you do affects your surroundings.
+Collective responsibility matters.
+A healthy planet is our legacy.
+Sustainability is not optional.
+The future is built on today's choices.
+Future generations will inherit what you have done.
+Legacy surpasses any achievement.
+What you plant today you harvest tomorrow. Present action shapes the distant future.
+Every choice is a vote for the future.
+Vote for who you always want to be.
+Future identity guides present action.
+Visualize, plan, execute, revise.
+A dream with a deadline becomes a real objective.
+An objective with a plan becomes reality.
+Reality begins in thought.
+Thought becomes word and deed.
+Repeated action becomes a firm habit.
+A molded habit becomes character.
+Expressed character becomes destiny.
+Destiny is choice, not pure chance.
+Code today, freedom tomorrow.
+Debugging is the archaeology of thought.
+Every bug solved is a victory.
+Stack Overflow is a dev's friend.
+RTM: read the manual first.
+Read the complete error, not just the end.
+Printf debug still works.
+Rebase or merge: know both.
+Cherry-pick consciously.
+Tag your release meaningfully.
+An honest changelog helps everyone.
+Semver communicates intent clearly.
+Backwards compatibility is respect.
+Breaking changes require a major version.
+Deprecate before removing everything.
+Migration guides save users.
+Public APIs are a sacred contract.
+REST or GraphQL: know both.
+HTTP status codes matter a lot.
+200 OK, 404 not found, 500 oops.
+Idempotency saves on failures.
+Retry with exponential backoff.
+Circuit breaker protects the system. Always timeout, never wait forever.
+Well-done caching speeds everything up.
+Cache invalidation is difficult.
+Database index changes everything in performance.
+Slow queries kill user experience.
+Explain and analyze before optimizing.
+Normalize until it hurts, then denormalize.
+ACID: atomicity, consistency, isolation.
+Transaction ensures data integrity.
