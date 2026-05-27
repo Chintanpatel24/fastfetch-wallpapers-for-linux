@@ -98,7 +98,7 @@
 
 <td>
 
-## [configs/TF2 Soldier EpikBoi's config/config.jsonc]
+## [config.json](configs/TF2 Soldier EpikBoi's config/config.jsonc)
 
 </td>
 
