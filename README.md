@@ -134,7 +134,7 @@ configs/7.jsonc
 
 <td>
 
-<img width="980" height="414" alt="7" src="https://github.com/user-attachments/assets/9ec4cbe3-723e-4db8-9432-74a4f5538ae3" />
+<img width="980" height="414" alt="7" src="https://github.com/user-attachments/assets/07ce7b2e-94c6-481a-92d4-bf01af57807f" />
 
 </td>
 
