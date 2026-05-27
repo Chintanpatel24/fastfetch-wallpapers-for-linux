@@ -100,13 +100,13 @@
 
 <td>
 
-<img width="980" height="414" alt="image" src="[https://github.com/user-attachments/assets/c3adefa8-34de-457e-aed0-2fbc55771d87](https://raw.githubusercontent.com/TehEpikBoi/tehepikboi-config/refs/heads/main/PNGs/Soldiertf2.webp)" />
+<img width="980" height="414" alt="image" src="[https://github.com/user-attachments/assets/c3adefa8-34de-457e-aed0-2fbc55771d87](https://raw.githubusercontent.com/TehEpikBoi/tehepikboi-config/refs/heads/main/PNGs/Soldiertf2.webp" />
 
 </td>
 
 <td>
 
-## [config.json](configs/TF2 Soldier EpikBoi's config/config.jsonc)
+## [config.json]([configs/TF2 Soldier EpikBoi's config])
 
 </td>
 
