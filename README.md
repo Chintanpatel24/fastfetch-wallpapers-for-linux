@@ -134,7 +134,7 @@
 
 <td>
 
- <img width="980" height="414" alt="fastfetch2" src="https://github.com/user-attachments/assets/b039b700-1cf1-4b5e-8732-97c2d29d4375" />
+<img width="980" height="414" alt="kuruma" src="https://github.com/user-attachments/assets/380c86c2-1bc0-4a97-9ead-5d44ef495ce7" />
 
 </td>
 
