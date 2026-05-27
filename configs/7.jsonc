@@ -1,0 +1,125 @@
+//credit:https://github.com/Beastboy999cr/hyprland
+
+{
+  /////===== LOGO =====/////
+  "logo": {
+    "type": "auto",
+    "source": "/home/cachy/.config/fastfetch/PNGs/*.png",
+    "height": 18,
+    "padding": {
+      "top": 1,
+      "left": 1,
+      "right": 1
+    }
+  },
+
+  "display": {
+    "separator": " "
+  },
+  /////===== MODULES =====/////
+  "modules": [
+    {
+      "type": "custom",
+      "key": "╭────────────╮",
+      "keyColor": "red"
+    },
+    {
+      "key": "│  User     │",
+      "type": "title",
+      "format": "{6}{7}{8}",
+      "keyColor": "red"
+    },
+    {
+      "type": "custom",
+      "key": "├────────────┤",
+      "keyColor": "red"
+    },
+    {
+      "type": "host",
+      "key": "│ 󰌢 Machine  │",
+      "keyColor": "red"
+    },
+    {
+      "type": "os",
+      "key": "│ {icon} OS       │",
+      "format": "{#38}{name} ",
+      "keyColor": "red"
+    },
+    {
+      "type": "kernel",
+      "key": "│  Kernel   │",
+      "keyColor": "red"
+    },
+    {
+      "type": "de",
+      "key": "│  DE       │",
+      "keyColor": "red"
+    },
+    {
+      "type": "wm",
+      "key": "│  WM       │",
+      "keyColor": "red"
+    },
+    {
+      "type": "terminal",
+      "key": "│  Terminal │",
+      "keyColor": "red"
+    },
+    {
+      "type": "packages",
+      "key": "│ 󰏗 Packages │",
+      "keyColor": "red",
+      "disabled": [
+        "apk"
+      ],
+      "combined": false
+    },
+    {
+      "type": "custom",
+      "key": "╰────────────╯",
+      "keyColor": "red"
+    },
+    {
+      "type": "custom",
+      "key": "╭────────────╮"
+    },
+    {
+      "type": "display",
+      "key": "│ \u001b[32m󰍹 Display  │",
+      "format": "{1}x{2} @ {3}Hz [{7}]"
+    },
+    {
+      "type": "memory",
+      "key": "│  Memory  {#keys} │",
+      "format": "{#38}{used} / {total}{#keys} "
+    },
+    {
+      "type": "disk",
+      "key": "│  Disk    {#keys} │",
+      "format": "{#38}{size-used} / {size-total}{#keys} "
+    },
+    {
+      "type": "cpu",
+      "key": "│  CPU     {#keys} │",
+      "format": "{#38}{name} ({cores-logical}){#keys}"
+    },
+    {
+      "type": "gpu",
+      "key": "│  GPU     {#keys} │",
+      "format": "{#38}{vendor} {name} ({type}){#keys}"
+    },
+    {
+      "type": "battery",
+      "key": "│  Battery {#keys} │"
+    },
+    {
+      "type": "uptime",
+      "key": "│ \u001b[32m󱫐 Uptime {#keys}  │",
+      "keyColor": "white"
+    },
+    {
+      "type": "custom",
+      "key": "╰────────────╯",
+    },
+  ]
+}
