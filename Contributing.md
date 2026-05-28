@@ -67,7 +67,6 @@ NEW_THEME!!!
 - Do NOT upload malicious scripts
 - Do NOT steal configs without credit
 - Keep the repository clean
-- No NSFW content
 - Test your config before submitting
 
 
