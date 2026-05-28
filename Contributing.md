@@ -64,6 +64,7 @@ NEW_THEME!!!
 
 ## Rules
 
+- Do not add NSFW content. 
 - Do NOT upload malicious scripts
 - Do NOT steal configs without credit
 - Keep the repository clean
@@ -96,4 +97,5 @@ Please mention them in your folder `README.md`.
 ---
 
 > [!NOTE]
+> Do not add NSFW content. 
 > If you have any doubt, just open a discussion; I am always here to answer. 
