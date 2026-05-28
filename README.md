@@ -1,7 +1,7 @@
 <table>
 
   <tr>
-    
+
   <td>
 
 <img width="980" height="414" alt="3" src="https://github.com/user-attachments/assets/106b7bcd-f2e5-4f98-91d7-f20ed1e127c2" />
@@ -9,7 +9,7 @@
 </td>
 
 <td>
-  
+
 ## [config.jsonc](configs/3.jsonc)
 
 </td>
@@ -67,7 +67,7 @@
 <tr>
 
 <td>
-  
+
 <img width="980" height="414" alt="6" src="https://github.com/user-attachments/assets/338b887d-4da1-485e-837f-cf0a0e35341f" />
 
 </td>
@@ -83,13 +83,13 @@
 <tr>
 
 <td>
-  
+
 <img width="980" height="414" alt="5" src="https://github.com/user-attachments/assets/e4198aa2-e4a4-48b7-98b7-8df8bddba296" />
 
 </td>
 
 <td>
-  
+
 ## [config.jsonc](configs/5.jsonc)
 
 </td>
@@ -174,8 +174,23 @@
 
 </td>
 
+</tr>
+
 <tr>
 
+<td>
+
+<img width="880" height="414" alt="preview" src="https://github.com/MHashir09/fastfetch-collection/blob/b97ad8360eb7fadbea767622d09e130cb33bb5ef/configs/friefetch/showcase.png" />
+
+</td>
+
+<td>
+
+## [config.jsonc](configs/friefech)
+
+</td>
+
+</tr>
 
 </table>
 
