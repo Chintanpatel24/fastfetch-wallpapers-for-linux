@@ -164,7 +164,7 @@
 
 <td>
 
-<img width="880" height="414" alt="preview" src="https://github.com/user-attachments/assets/cbb3d434-f42c-4b35-be2b-77ad806feddd" />
+<img width="980" height="414" alt="preview" src="https://github.com/user-attachments/assets/cbb3d434-f42c-4b35-be2b-77ad806feddd" />
 
 </td>
 
@@ -180,13 +180,13 @@
 
 <td>
 
-<img width="880" height="414" alt="preview" src="https://github.com/MHashir09/fastfetch-collection/blob/b97ad8360eb7fadbea767622d09e130cb33bb5ef/configs/friefetch/showcase.png" />
+<img width="980" height="414" alt="preview" src="https://github.com/MHashir09/fastfetch-collection/blob/b97ad8360eb7fadbea767622d09e130cb33bb5ef/configs/friefetch/showcase.png" />
 
 </td>
 
 <td>
 
-## [config.jsonc](configs/friefech)
+## [config.jsonc](configs/friefetch)
 
 </td>
 
