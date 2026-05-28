@@ -1,6 +1,5 @@
 # script for installation configs in linux desktop
 # under devlopment 
-
 REPO_URL="https://raw.githubusercontent.com/Chintanpatel24/fastfetch-collection/main/configs"
 CONFIG_DIR="$HOME/.config/fastfetch"
 TARGET_FILE="$CONFIG_DIR/config.jsonc"
