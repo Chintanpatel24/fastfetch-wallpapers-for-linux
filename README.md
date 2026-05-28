@@ -1,6 +1,7 @@
 <table>
 
   <tr>
+    
   <td>
 
 <img width="980" height="414" alt="3" src="https://github.com/user-attachments/assets/106b7bcd-f2e5-4f98-91d7-f20ed1e127c2" />
@@ -19,13 +20,13 @@
 
 <td>
 
-<img width="980" height="414" alt="2" src="https://github.com/user-attachments/assets/bcf9e5b2-efcd-4f4a-b5ec-6e23d86e9478" />
+<img width="980" height="414" alt="kuruma" src="https://github.com/user-attachments/assets/380c86c2-1bc0-4a97-9ead-5d44ef495ce7" />
 
 </td>
 
 <td>
 
-## [config.jsonc](configs/2.jsonc)
+## [config.jsonc](configs/7.jsonc)
 
 </td>
 
@@ -37,12 +38,27 @@
 
 <img width="980" height="414" alt="4" src="https://github.com/user-attachments/assets/6f699d5d-8614-4d15-936b-12e1501c52ef" />
 
-
 </td>
 
 <td>
 
 ## [config.jsonc](configs/4.jsonc)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img width="980" height="414" alt="2" src="https://github.com/user-attachments/assets/bcf9e5b2-efcd-4f4a-b5ec-6e23d86e9478" />
+
+</td>
+
+<td>
+
+## [config.jsonc](configs/2.jsonc)
 
 </td>
 
@@ -123,24 +139,6 @@
 <td>
 
 ## [config.jsonc](configs/tf2soldier-config)
-
-</td>
-
-</tr>
-
-<tr>
-
-<tr>
-
-<td>
-
-<img width="980" height="414" alt="kuruma" src="https://github.com/user-attachments/assets/380c86c2-1bc0-4a97-9ead-5d44ef495ce7" />
-
-</td>
-
-<td>
-
-## [config.jsonc](configs/7.jsonc)
 
 </td>
 
