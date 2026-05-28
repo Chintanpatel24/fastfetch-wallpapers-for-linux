@@ -162,6 +162,16 @@
 
 </tr>
 
+<tr>
+
+<td>
+<img src="configs/snoopy-mugiwara/preview.png width="980"   height="414" >
+
+</td>
+
+<tr>
+
+
 </table>
 
 ---
