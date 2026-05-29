@@ -192,6 +192,22 @@
 
 </tr>
 
+<tr>
+
+<td>
+
+<img width="1181" height="559" alt="image" src="https://github.com/user-attachments/assets/bbb7e4b5-b7cc-4105-a423-8a157cec8950" />
+  
+</td>
+
+<td>
+
+## [config.jsonc](configs/Cmdr_Scotty)
+  
+</td>
+
+</tr>
+
 </table>
 
 ---
