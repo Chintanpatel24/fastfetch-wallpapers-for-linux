@@ -209,10 +209,6 @@
 </tr>
 
 ## [config.jsonc](configs/sofijacom-config)
-  
-</td>
-
-</tr>
 
 <tr>
 
@@ -222,7 +218,7 @@
 
 </td>
  
-<tr>
+</tr>
 
 </table>
 
