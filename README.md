@@ -202,6 +202,12 @@
 
 <td>
 
+## [config.jsonc](configs/Cmdr_Scotty)
+  
+</td>
+
+</tr>
+
 ## [config.jsonc](configs/sofijacom-config)
 
 </td>
@@ -213,12 +219,6 @@
 </td>
 
 <tr>
-
-## [config.jsonc](configs/Cmdr_Scotty)
-  
-</td>
-
-</tr>
 
 </table>
 
