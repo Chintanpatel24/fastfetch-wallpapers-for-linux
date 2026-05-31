@@ -212,7 +212,7 @@
 
 <td>
 
-<img width="740" height="408" alt="arch" src="https://github.com/user-attachments/assets/c3cd16a1-ccae-461e-8420-75dbfd8184af" />
+<img width="980" height="414" alt="arch" src="https://github.com/user-attachments/assets/c3cd16a1-ccae-461e-8420-75dbfd8184af" />
   
 </td>
 
