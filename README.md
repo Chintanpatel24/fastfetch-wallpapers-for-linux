@@ -208,22 +208,6 @@
 
 </tr>
 
-## [config.jsonc](configs/sofijacom-config)
-  
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img width="980" height="414" alt="arch" src="https://github.com/user-attachments/assets/c3cd16a1-ccae-461e-8420-75dbfd8184af" />
-
-</td>
-
-<td>
-
 </table>
 
 ---
