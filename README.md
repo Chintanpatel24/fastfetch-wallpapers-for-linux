@@ -208,6 +208,12 @@
 
 </tr>
 
+## [config.jsonc](configs/sofijacom-config)
+  
+</td>
+
+</tr>
+
 </table>
 
 ---
