@@ -1,0 +1,132 @@
+//
+//    __          _    __     _       _
+//   / _|        | |  / _|   | |     | |
+//  | |_ __ _ ___| |_| |_ ___| |_ ___| |__
+//  |  _/ _` / __| __|  _/ _ \ __/ __| '_ \
+//  | || (_| \__ \ |_| ||  __/ || (__| | | |
+//  |_| \__,_|___/\__|_| \___|\__\___|_| |_|  Arch
+//
+//  by Sofiya
+
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "color": {"1": "blue", "2": "black"},
+    "source": "$(find \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/png/\" -name \"*.png\" | shuf -n 1)",
+//    "source": "$HOME/.config/fastfetch/ascii/rose.txt",
+    "padding": {
+      "top": 4,
+      "right": 5
+    },
+    "height": 18
+  },
+  "display": {
+    "separator": " ▸ " // :
+  },
+"modules": [
+  {
+    "type": "title"
+  },
+"break",
+{
+  "type": "custom",
+  "format": "\u001b[90m┌────────────────────────────────────────────────────────────┐"
+},
+{
+  "type": "os",
+  "key": "",
+  "keycolor": "red"
+},
+{
+  "type": "kernel",
+  "key": "",
+  "keycolor": "red"
+},
+{
+  "type": "de",
+  "key": "",
+  "keycolor": "green"
+},
+{
+  "type": "wm",
+  "key": "",
+  "keycolor": "green"
+},
+{
+  "type": "packages",
+  "key": "",
+  "keycolor": "yellow"
+},
+{
+  "type": "custom",
+  "format": "\u001b[90m├─────────────────────────────────────────────────────────────┤"
+},
+{
+  "type": "memory",
+  "key": "",
+  "keycolor": "blue"
+},
+{
+  "type": "host",
+  "key": "",
+  "keycolor": "blue"
+},
+{
+  "type": "cpu",
+  "key": "",
+  "keycolor": "blue"
+},
+{
+  "type": "gpu",
+  "key": "",
+  "keycolor": "magenta"
+},
+{
+  "type": "swap",
+  "key": "",
+  "keycolor": "magenta"
+},
+{
+  "type": "disk",
+  "key": "",
+  "keycolor": "red"
+},
+{
+  "type": "battery",
+  "key": "",
+  "keycolor": "red"
+},
+{
+  "type": "custom",
+  "format": "\u001b[90m├─────────────────────────────────────────────────────────────┤"
+},
+{
+  "type": "uptime",
+  "key": "",
+  "keycolor": "yellow"
+},
+{
+  "type": "terminal",
+  "key": "",
+  "keycolor": "yellow"
+},
+{
+  "type": "locale",
+  "key": "",
+  "keycolor": "yellow"
+},
+{
+  "type": "custom",
+  "format": "\u001b[90m└────────────────────────────────────────────────────────────┘"
+},
+{
+  "type": "colors",
+  "paddingLeft": 24,
+  "symbol": "circle",
+  "block": {
+    "width": 10
+  }
+},
+"break",
+]
+}
